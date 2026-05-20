@@ -48,6 +48,13 @@
       "price": 250,
       "rarity": "epic",
       "image": "c.png"
+    },
+    {
+      "id": "terrone",
+      "name": "Texugo",
+      "price": 9999,
+      "rarity": "Texugo",
+      "image": "arduino2.png"
     }
   ],
   "upgrades": [
